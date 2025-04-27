@@ -1,6 +1,6 @@
 # 🕷️ Template Proyectos Scraping
 
-![Scraping Image](https://raw.githubusercontent.com/mariusandra/images/master/web-scraping-example.png)
+![Scraping Image](https://raw.githubusercontent.com/JuanjDes/template-scraping/webscraping.png)
 
 Mini-Template básico para proyectos de Node + Express +ESM + Scraping
 
@@ -20,7 +20,7 @@ El archivo `package.json` contiene la configuración y las dependencias del proy
 
 - **Nombre del proyecto:** template-proyectos-scraping
 - **Versión:** 1.0.0
-- **Tipo:** module (usa sintaxis ES6)
+- **Tipo:** module (usa sintaxis ES6) -> import/export en archivos .js sin renombrarlos a .mjs
 - **Dependencias principales:**
   - `express`: ^4.18.2
   - `node-fetch`: ^3.3.1
@@ -29,7 +29,7 @@ El archivo `package.json` contiene la configuración y las dependencias del proy
 ## 🚀 Scripts
 
 - `npm start`: Inicia el servidor
-- `npm run dev`: Inicia el servidor con nodemon para desarrollo
+- `npm run dev`: Inicia el servidor con nodemon para desarrollo (reinicia solo cuando guardas cambios)
 
 ## 🛠️ Configuración
 
