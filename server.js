@@ -1,3 +1,5 @@
+// Este ejemplo de Template busca Webcams en la red
+
 import express from 'express';
 import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
