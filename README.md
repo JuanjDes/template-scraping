@@ -1,6 +1,6 @@
 # 🕷️ Template Proyectos Scraping
 
-![Scraping Image](https://raw.githubusercontent.com/JuanjDes/template-scraping/webscraping.png)
+![Scraping Image](https://github.com/JuanjDes/template-scraping/edit/main/README.md)
 
 Mini-Template básico para proyectos de Node + Express +ESM + Scraping
 
